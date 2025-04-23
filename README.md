@@ -1,4 +1,9 @@
-<h1 align="center"><b>Hola, soy Lucas Trapani </b></h1>
+<h1 align="center"><b>Hola, soy Lucas Trapani </b>      <img src="https://raw.githubusercontent.com/ltrapani/ltrapani/main/foto-perfil-circular.png" width="100" align="right"/>
+
+</h1> 
+
+ 
+
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Anonymous+Pro&size=45&duration=2000&pause=1000&color=38E029&center=true&vCenter=true&width=950&height=60&lines=Estudiante+de+Ingenieria+en+Sistemas;UTN+FRD" alt="Typing SVG" /></a>
@@ -37,6 +42,9 @@
 	
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> **Sobre mi**
 
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical" alt="Stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=radical" alt="Top Langs" height="150"/>
+</p>
 
 
