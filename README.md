@@ -1,6 +1,4 @@
-<h1 align="center"><b>Hola, soy Lucas Trapani </b>      <img src="https://raw.githubusercontent.com/ltrapani/ltrapani/main/foto-perfil-circular.png" width="100" align="right"/>
-
-</h1> 
+<h1 align="center"><b>Hola, soy Lucas Trapani </b></h1> 
 
  
 
