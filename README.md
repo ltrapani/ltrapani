@@ -41,8 +41,8 @@
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> **Sobre mi**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical" alt="Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=radical" alt="Top Langs" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ltrapani&show_icons=true&theme=radical" alt="Stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ltrapani&layout=compact&theme=radical" alt="Top Langs" height="150"/>
 </p>
 
 
